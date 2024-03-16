@@ -1,0 +1,1 @@
+file06.txt text inside the file06.txt
