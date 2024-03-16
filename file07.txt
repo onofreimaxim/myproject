@@ -1,0 +1,1 @@
+text inside file 07 created with git command locally
